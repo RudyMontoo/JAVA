@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27c085b8-aee8-4107-b6cc-e2bf7fd60e6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LINKEDLIST/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LINKEDLIST/Singlelinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHDSA/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHDSA/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHDSA/NEWTONRAPSHONSQRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHDSA/Primeno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHDSA/binarysearchsqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHDSA/optimisedcodeforfactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATHDSA/primenorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAZE_PROBLEM/countingmazepath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAZE_PROBLEM/includingallpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAZE_PROBLEM/includingdiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAZE_PROBLEM/pathwithobstacles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAZE_PROBLEM/printMatrixwithpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAZE_PROBLEM/printingpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/SYNTAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/EXCESS/OBJECTDEMO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/EXCESS/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/EXCESS/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/abstractdemo/daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/abstractdemo/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/abstractdemo/parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/abstractdemo/son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/inheritance/box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/inheritance/boxprices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/inheritance/boxweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/inheritance/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/brake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/electricengines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/extendinterfaces/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/extendinterfaces/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/extendinterfaces/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/mediaplayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/nicecar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/interfaces/powerengine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/polymorphism/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/polymorphism/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/polymorphism/numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/polymorphism/shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/polymorphism/square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/properties/polymorphism/triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/wrapperclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STACK_QUEUE/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STACK_QUEUE/CustomQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STACK_QUEUE/Custom_stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STACK_QUEUE/DynamicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STACK_QUEUE/DynamicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STACK_QUEUE/STACK_INTERVIEW_QUESTION/gameoftwostack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STACK_QUEUE/STACK_INTERVIEW_QUESTION/iMPLEMENT_STACKUSING_QUEUE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STACK_QUEUE/StackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STACK_QUEUE/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binarySearchInterviewproblem/RBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binarySearchInterviewproblem/ceilingofumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binarySearchInterviewproblem/firstandlastelementofsortedarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binarySearchInterviewproblem/floor_of_a_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binarySearchInterviewproblem/infinitearraybs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binarySearchInterviewproblem/linearserchin2darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binarySearchInterviewproblem/smallestletter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/Noofdigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/XORATOBRANGE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/evenoddchecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/ithbitofanum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/magicnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/resetithbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/settheithbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/singlenoinarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitwiseoperator/xor0toa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package_/INNERCLASS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package_/human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package_/human2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package_/initialisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patternproblem/pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patternproblem/pattern17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patternproblem/pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patternproblem/pattern28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patternproblem/pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patternproblem/pattern30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patternproblem/pattern31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patternproblem/pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patternproblem/pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/COUNTZEROESINTHENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/GOOGLE_lettercombinationofaphonenum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/NKNIGHT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/NQUEEN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/NQUEEN_LISTLEETCODE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/PRINT1TON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/PRINTNTO1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/REMOVEAFROMSTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/SUDOKU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/binarysearchbyrecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/bubblesortbyrecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/factorialofnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/fibbonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/linearsearchonmultipleocurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/linearserachwithrecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/numof_diceroll_targetsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/patternprintingbyrecusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/printingnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/productofthedigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/removeappbutnotapple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/removepplefromstr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/returnalist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/reverseanumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/rotatedbinarysearch_recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/selectionsortbyrecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/sortedandunsortedarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/sudoku_VALID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/sum1ton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/sumofdigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/Code17pythogoreantriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code10calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code10reverse_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code11switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code12swap_two_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code13maxandminof3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code14prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code15fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code16Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code18sumofnnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code19armstrongno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code2primitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code3sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code4if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code4typeconversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code6largestno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code7alphabetcheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code8fibbonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rudra/code9count_occurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/MERGESORTINPLACE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/Mergesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/QUICKSORT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/bubblesoting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/cyclicsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/insertionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stringandstringmetod/comparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stringandstringmetod/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stringandstringmetod/prettyprinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stringandstringmetod/stringbuilderclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stringandstringmetod/stringmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stringandstringmetod/subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stringandstringmetod/subsetwithasciivalue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rudra/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="305USrXHHg1HZKbcEsYx0fEeQcr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Rudra Sharma/Desktop/JAVA/kunallec/src/TIC_TAC_TOE",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27c085b8-aee8-4107-b6cc-e2bf7fd60e6a" name="Changes" comment="" />
+      <created>1752916932195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752916932195</updated>
+      <workItem from="1752916934053" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
