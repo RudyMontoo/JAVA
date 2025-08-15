@@ -1,0 +1,23 @@
+Method vs Function
+
+->A method is also a function but always inside or associated with a class .
+->A function is a standalone method that can reside outside a class and still work.
+-->Java does not support standalone functions.
+
+
+Argument vs Parameters
+
+->Arguments are the real values that we pass when call a method;
+->Parameters are the variables defined inside the function definition.
+
+
+Primitive vs non primitive argument passing:
+
+==>In java whenever we pass an variable , then always the value of that variable is passed , irrespective of the value type
+
+-->In case of a primitive type , the variable directly stores the value inside it and is present in the stack memory
+    --> Hence , it  just  passes a value
+
+-->In case of a non-primitive type , the variable stores the reference address to the actual object in the heap
+    and the object stores the actual value
+      -->Hence we pass an address of the actual object and the original object's value can be manipulated
