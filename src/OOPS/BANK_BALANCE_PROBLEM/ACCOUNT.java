@@ -1,27 +1,36 @@
 package OOPS.BANK_BALANCE_PROBLEM;
 
-public class data_hiding {
-    int balance=0;
-    int amt=0;
+public class ACCOUNT {
+    private int balance=0;
+    private int amt=0;
 
-    public data_hiding(){
+    public ACCOUNT(){
         this.balance=0;
         this.amt=0;
     }
-    public data_hiding(int amt){
+    public ACCOUNT(int amt){
         this.balance+=amt;
         this.amt=amt;
     }
-    void displaybalance(){
-        System.out.println("Your balance is "+balance);
+    public int getBalance() {
+        return balance;
     }
-    void withdraw(int amt){
-        if(amt>0 && amt<this.balance){
-            this.balance-=amt;
-            System.out.println("Your available balance is "+this.balance);
+
+    public void displayBalance() {
+        System.out.println("Your balance is " + balance);
+    }
+
+    public void withdraw(int amt){
+        if(amt > 0 && amt <= this.balance){
+            this.balance -= amt;
+            System.out.println("Your available balance is " + this.balance);
+        } else if(amt <= 0) {
+            System.out.println("Withdrawal amount must be positive.");
+        } else {
+            System.out.println("Insufficient balance.");
         }
     }
-    void deposit(int amt){
+    public void deposit(int amt){
         if(amt>0){
             this.balance+=amt;
             System.out.println("Your available balance is "+this.balance);
