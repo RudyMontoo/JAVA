@@ -1,4 +1,65 @@
 package OOPS.lecture6;
 
-public class Wildcards {
+import java.util.Arrays;
+
+//<T extends Number> it means lists only work for number;
+public class Wildcards<T extends Number> {
+    private Object[] data;
+    private static int Default_Size=10;
+    private int size=0;
+    public Wildcards(){
+        data=new  Object[Default_Size];
+    }
+    public void add(T num){
+        if(isFull()){
+            resize();
+        }
+        data[size++]=num;
+    }
+    private boolean isFull(){
+        return size==data.length;
+    }
+    private void resize(){
+        Object[] new_data = new  Object[data.length*2];
+        //copy the current item in it;
+        for(int i=0;i<data.length;i++){
+            new_data[i]=data[i];
+        }
+        data = new_data;
+    }
+    public T remove(){
+        T removed=(T)(data[--size]);
+        return removed;
+    }
+    public T get(int index){
+        return (T)data[index];
+    }
+    public int Size(){
+        return size;
+    }
+
+    public void set(int index,T value){
+        data[index]=value;
+    }
+
+    @Override
+    public String toString() {
+        return "custom_arrayList{" +
+                "data" + Arrays.toString(data)+", size"
+                +size+
+                '}';
+    }
+
+
+    public static void main(String[] args) {
+//        custom_generics_arrayList<String> list=new custom_generics_arrayList<Integer>(); error -- String
+        custom_generics_arrayList<Integer> list=new custom_generics_arrayList<Integer>();
+        list.add(1);
+        list.add(2);
+        list.add(3);
+        list.add(4);
+        System.out.println(list);
+        //above method are only work for single data type which we will intialize in class
+
+    }
 }
