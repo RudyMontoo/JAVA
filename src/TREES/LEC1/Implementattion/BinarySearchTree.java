@@ -16,7 +16,8 @@ public class BinarySearchTree {
         }
         if (value < root.val) {
             root.left = insertRec(value, root.left);
-        } else if (value > root.val) {
+        }
+        else if (value > root.val) {
             root.right = insertRec(value, root.right);
         }
         // If value == root.val, do nothing (no duplicates)
