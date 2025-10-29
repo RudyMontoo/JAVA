@@ -3,10 +3,10 @@ package TREES.LEC1;
 public class AVL {
 
     public static class Node {
-        private int value;
-        private int height;
-        private Node left;
-        private Node right;
+        int value;
+        int height;
+        Node left;
+        Node right;
 
         public Node(int value) {
             this.value = value;

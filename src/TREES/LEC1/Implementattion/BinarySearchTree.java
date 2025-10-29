@@ -49,15 +49,15 @@ public class BinarySearchTree {
     }
     //HEIGHT
     void height(){
-        System.out.println(Height(root));
+        System.out.println(height(root));
     }
-    int Height(Node root) {
+    private int height(Node root) {
         if (root == null)
             return 0; // base case: empty tree has height 0
 
         // recursively find height of left and right subtrees
-        int leftHeight = Height(root.left);
-        int rightHeight = Height(root.right);
+        int leftHeight = height(root.left);
+        int rightHeight = height(root.right);
 
         // height of tree = 1 + max(leftHeight, rightHeight)
         return 1 + Math.max(leftHeight, rightHeight);
@@ -143,6 +143,15 @@ public class BinarySearchTree {
         System.out.println("Maximum Value: " + curr.val);
     }
 
+    //Check balance tree
+    public  boolean balance(){
+        return balance(root);
+    }
+    private boolean balance(Node root) {
+        if(root == null) return true;
+        return Math.abs(height(root.left)-height(root.right))<=1 && (balance(root.left)&&balance(root.right));
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         BinarySearchTree tree = new BinarySearchTree();
@@ -178,6 +187,9 @@ public class BinarySearchTree {
                 case 7: tree.height();
                 break;
                 case 8:
+                    System.out.println(tree.balance());
+                    break;
+                case 9:
                     System.out.println("Exiting...");
                     return;
                 
@@ -190,6 +202,7 @@ public class BinarySearchTree {
 
 // Minimal Node class
 class Node {
+int height;
     int val;
     Node left, right;
     public Node(int val) { this.val = val; }
