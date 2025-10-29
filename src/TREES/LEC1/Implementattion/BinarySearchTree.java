@@ -47,7 +47,21 @@ public class BinarySearchTree {
         }
         return root;
     }
+    //HEIGHT
+    void height(){
+        System.out.println(Height(root));
+    }
+    int Height(Node root) {
+        if (root == null)
+            return 0; // base case: empty tree has height 0
 
+        // recursively find height of left and right subtrees
+        int leftHeight = Height(root.left);
+        int rightHeight = Height(root.right);
+
+        // height of tree = 1 + max(leftHeight, rightHeight)
+        return 1 + Math.max(leftHeight, rightHeight);
+    }
     // Helper to get minimum value from a node
     private int minValueNode(Node node) {
         int minv = node.val;
@@ -161,9 +175,12 @@ public class BinarySearchTree {
                 case 6:
                     tree.maxValue();
                     break;
-                case 7:
+                case 7: tree.height();
+                break;
+                case 8:
                     System.out.println("Exiting...");
                     return;
+                
                 default:
                     System.out.println("Invalid option");
             }
