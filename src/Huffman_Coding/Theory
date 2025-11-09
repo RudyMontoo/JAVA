@@ -1,0 +1,9 @@
+DEFINITION
+Huffman encoding is a popular algorithm used for lossless data compression
+STEPS
+1 pass the string(data)
+2 make frequency map (cout frequency of every character)
+3 for every key in freq map, create a node and insert that node in a min heap?Priority queue
+  eg Node data: char data ; int cost frequency
+
+4 remove 2 element from heap and combine heap
