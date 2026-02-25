@@ -1,0 +1,22 @@
+class Solution {
+    public int[] sortByBits(int[] arr) {
+        // Integer[] boxed = Arrays.stream(arr).boxed().toArray(Integer[]::new);
+        Integer[] boxed = new Integer[arr.length];
+        for (int i = 0; i < arr.length; i++) {
+            boxed[i] = arr[i];
+        }
+        Arrays.sort(boxed, (x, y) -> { // it only work for Integer that why we make Integer[] array
+            int a = Integer.bitCount(x);
+            int b = Integer.bitCount(y);
+
+            if (a == b) return x - y;
+            return a - b;
+        });
+
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = boxed[i];
+        }
+
+        return arr;
+    }
+}
