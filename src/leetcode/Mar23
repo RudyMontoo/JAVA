@@ -1,0 +1,41 @@
+class Solution {
+    public int maxProductPath(int[][] grid) {
+        int m = grid.length, n = grid[0].length;
+
+        long[] max = new long[n];
+        long[] min = new long[n];
+
+        max[0] = min[0] = grid[0][0];
+
+        // first row
+        for (int j = 1; j < n; j++) {
+            max[j] = min[j] = max[j - 1] * grid[0][j];
+        }
+
+        for (int i = 1; i < m; i++) {
+
+            // first column
+            max[0] = min[0] = max[0] * grid[i][0];
+
+            for (int j = 1; j < n; j++) {
+
+                long topMax = max[j];
+                long topMin = min[j];
+
+                long leftMax = max[j - 1];
+                long leftMin = min[j - 1];
+
+                long a = grid[i][j] * topMax;
+                long b = grid[i][j] * topMin;
+                long c = grid[i][j] * leftMax;
+                long d = grid[i][j] * leftMin;
+
+                max[j] = Math.max(Math.max(a, b), Math.max(c, d));
+                min[j] = Math.min(Math.min(a, b), Math.min(c, d));
+            }
+        }
+
+        long result = max[n - 1];
+        return result < 0 ? -1 : (int)(result % 1000000007);
+    }
+}
