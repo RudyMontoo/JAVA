@@ -1,0 +1,22 @@
+class Solution {
+    public boolean checkStrings(String s1, String s2) {
+        HashMap<Character,Integer> even_A =new HashMap<>();
+        HashMap<Character,Integer> odd_B =new HashMap<>();
+         HashMap<Character,Integer> even_B =new HashMap<>();
+        HashMap<Character,Integer> odd_A =new HashMap<>();
+
+        for(int i=0;i<s1.length();i++){
+            if(i%2==0){
+                even_A.put(s1.charAt(i),even_A.getOrDefault(s1.charAt(i),0)+1);
+                even_B.put(s2.charAt(i),even_B.getOrDefault(s2.charAt(i),0)+1);
+            }
+            else{
+                odd_A.put(s1.charAt(i),odd_A.getOrDefault(s1.charAt(i),0)+1);
+                odd_B.put(s2.charAt(i),odd_B.getOrDefault(s2.charAt(i),0)+1);
+            }
+        }
+        return even_A.equals(even_B) && odd_A.equals(odd_B);
+
+
+    }
+}
