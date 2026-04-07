@@ -1,0 +1,16 @@
+class Solution {
+    public List<Integer> findMissingElements(int[] nums) {
+        List<Integer> list=new ArrayList<>();
+        HashSet<Integer> set=new HashSet<>();
+        for(var x:nums){
+            set.add(x);
+        }
+        Arrays.sort(nums);
+        for(int i=nums[0];i<=nums[nums.length-1];i++){
+            if(!set.contains(i)){
+                list.add(i);
+            }
+        }
+        return list;
+    }
+}
