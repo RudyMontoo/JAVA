@@ -1,0 +1,17 @@
+class Solution {
+    public int xorAfterQueries(int[] nums, int[][] queries) {
+        int MOD = 1000000007;
+        for(int i=0;i<queries.length;i++){
+            int idx=queries[i][0];
+            while(idx<=queries[i][1]){
+                nums[idx] = (int)((nums[idx] * 1L * queries[i][3]) % MOD);
+                idx+=queries[i][2];
+            }
+        }
+        int ans=0;
+        for(var x : nums){
+            ans^=x;
+        }
+        return ans;
+    }
+}
