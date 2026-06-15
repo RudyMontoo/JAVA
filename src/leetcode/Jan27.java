@@ -5,7 +5,7 @@ import java.util.HashSet;
 public class Jan27 {
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        leetcode.jun15.Solution sol = new leetcode.jun15.Solution();
 
         String s1 = "abcabc";
         String s2 = "aaaa";
@@ -17,7 +17,7 @@ public class Jan27 {
     }
 }
 
-class Solution {
+public class Solution {
     public int maxDistinct(String s) {
         HashSet<Character> set = new HashSet<>();
 
