@@ -2,7 +2,7 @@ class Solution {
     public int missingInteger(int[] nums) {
         int n = nums.length;
 
-        // Find the longest consecutive prefix
+     
         int sum = nums[0];
         int idx = 0;
 
@@ -15,7 +15,7 @@ class Solution {
             }
         }
 
-        // Start checking from the sum
+
         int x = sum;
 
         while (true) {
