@@ -80,6 +80,7 @@ The goal of this repo is to:
 | [0020-valid-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/RudyMontoo/JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RudyMontoo/JAVA/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/RudyMontoo/JAVA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -112,4 +113,8 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/RudyMontoo/JAVA/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/RudyMontoo/JAVA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
