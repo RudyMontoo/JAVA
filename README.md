@@ -59,6 +59,7 @@ The goal of this repo is to:
 | [0014-longest-common-prefix](https://github.com/RudyMontoo/JAVA/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ The goal of this repo is to:
 | ------- |
 | [0205-isomorphic-strings](https://github.com/RudyMontoo/JAVA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -123,6 +125,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
