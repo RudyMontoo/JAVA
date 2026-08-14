@@ -78,6 +78,7 @@ The goal of this repo is to:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RudyMontoo/JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RudyMontoo/JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0020-valid-parentheses) |
@@ -104,6 +105,7 @@ The goal of this repo is to:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RudyMontoo/JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/RudyMontoo/JAVA/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -153,4 +155,12 @@ The goal of this repo is to:
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RudyMontoo/JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RudyMontoo/JAVA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RudyMontoo/JAVA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
