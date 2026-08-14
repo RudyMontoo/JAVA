@@ -78,6 +78,7 @@ The goal of this repo is to:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RudyMontoo/JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/RudyMontoo/JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -107,6 +108,7 @@ The goal of this repo is to:
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -119,6 +121,7 @@ The goal of this repo is to:
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/RudyMontoo/JAVA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
