@@ -171,4 +171,8 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RudyMontoo/JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
