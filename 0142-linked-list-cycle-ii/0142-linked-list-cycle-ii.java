@@ -10,7 +10,7 @@
  * }
  */
 public class Solution {
-    public ListNode detectCycle(ListNode head) {
+    public ListNode detectCycle(ListNode head){
         ListNode slow=head;
         ListNode fast=head;
         int len=0;
@@ -42,7 +42,7 @@ public class Solution {
             f=f.next;
         }
 
-return s;
+        return s;
 
     }
 }
