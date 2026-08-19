@@ -58,6 +58,7 @@ The goal of this repo is to:
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RudyMontoo/JAVA/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/RudyMontoo/JAVA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/RudyMontoo/JAVA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RudyMontoo/JAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
@@ -213,6 +214,7 @@ The goal of this repo is to:
 | ------- |
 | [0022-generate-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RudyMontoo/JAVA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/RudyMontoo/JAVA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RudyMontoo/JAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
