@@ -129,6 +129,7 @@ The goal of this repo is to:
 | [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/RudyMontoo/JAVA/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -210,6 +211,7 @@ The goal of this repo is to:
 | [0206-reverse-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/RudyMontoo/JAVA/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
