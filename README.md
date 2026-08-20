@@ -62,6 +62,7 @@ The goal of this repo is to:
 | [0074-search-a-2d-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RudyMontoo/JAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/RudyMontoo/JAVA/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -186,6 +187,7 @@ The goal of this repo is to:
 | [0005-longest-palindromic-substring](https://github.com/RudyMontoo/JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/RudyMontoo/JAVA/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/RudyMontoo/JAVA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
