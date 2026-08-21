@@ -61,6 +61,7 @@ The goal of this repo is to:
 | [0040-combination-sum-ii](https://github.com/RudyMontoo/JAVA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RudyMontoo/JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/RudyMontoo/JAVA/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -78,6 +79,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -93,6 +95,7 @@ The goal of this repo is to:
 | [0014-longest-common-prefix](https://github.com/RudyMontoo/JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/RudyMontoo/JAVA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RudyMontoo/JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RudyMontoo/JAVA/tree/master/0205-isomorphic-strings) |
@@ -239,6 +242,7 @@ The goal of this repo is to:
 | [0039-combination-sum](https://github.com/RudyMontoo/JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RudyMontoo/JAVA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RudyMontoo/JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RudyMontoo/JAVA/tree/master/0131-palindrome-partitioning) |
 ## Memoization
@@ -253,4 +257,8 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/RudyMontoo/JAVA/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
