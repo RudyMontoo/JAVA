@@ -54,16 +54,10 @@ public String print(int col){
     int crow = row;
     int ccol = col;
 
-    // UP + DOWN
+    // UP 
     int r = 1;
 
     while (r < board.length) {
-
-        // DOWN
-        if (crow + r < board.length &&
-            board[crow + r][ccol] == 1) {
-            return false;
-        }
 
         // UP
         if (crow - r >= 0 &&
@@ -75,38 +69,11 @@ public String print(int col){
     }
 
 
-    // LEFT + RIGHT
-    int c = 1;
 
-    while (c < board.length) {
-
-        // RIGHT
-        if (ccol + c < board.length &&
-            board[crow][ccol + c] == 1) {
-            return false;
-        }
-
-        // LEFT
-        if (ccol - c >= 0 &&
-            board[crow][ccol - c] == 1) {
-            return false;
-        }
-
-        c++;
-    }
-
-
-    // ↖ + ↘
+    
     int d = 1;
 
     while (d < board.length) {
-
-        // DOWN-RIGHT ↘
-        if (crow + d < board.length &&
-            ccol + d < board.length &&
-            board[crow + d][ccol + d] == 1) {
-            return false;
-        }
 
         // UP-LEFT ↖
         if (crow - d >= 0 &&
@@ -130,14 +97,6 @@ public String print(int col){
             board[crow - d][ccol + d] == 1) {
             return false;
         }
-
-        // DOWN-LEFT ↙
-        if (crow + d < board.length &&
-            ccol - d >= 0 &&
-            board[crow + d][ccol - d] == 1) {
-            return false;
-        }
-
         d++;
     }
 
