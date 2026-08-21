@@ -99,6 +99,7 @@ The goal of this repo is to:
 | [0131-palindrome-partitioning](https://github.com/RudyMontoo/JAVA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RudyMontoo/JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RudyMontoo/JAVA/tree/master/0205-isomorphic-strings) |
+| [0282-expression-add-operators](https://github.com/RudyMontoo/JAVA/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RudyMontoo/JAVA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
@@ -137,6 +138,7 @@ The goal of this repo is to:
 | [0002-add-two-numbers](https://github.com/RudyMontoo/JAVA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/RudyMontoo/JAVA/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/RudyMontoo/JAVA/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/RudyMontoo/JAVA/tree/master/1922-count-good-numbers) |
@@ -245,6 +247,7 @@ The goal of this repo is to:
 | [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RudyMontoo/JAVA/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/RudyMontoo/JAVA/tree/master/0282-expression-add-operators) |
 ## Memoization
 |  |
 | ------- |
