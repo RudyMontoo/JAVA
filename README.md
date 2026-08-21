@@ -64,6 +64,7 @@ The goal of this repo is to:
 | [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/RudyMontoo/JAVA/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/RudyMontoo/JAVA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -247,6 +248,7 @@ The goal of this repo is to:
 | [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RudyMontoo/JAVA/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/RudyMontoo/JAVA/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/RudyMontoo/JAVA/tree/master/0282-expression-add-operators) |
 ## Memoization
 |  |
