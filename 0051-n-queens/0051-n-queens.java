@@ -49,57 +49,22 @@ public String print(int col){
 }
 
 
- public boolean isSafe(int row, int col) {
-
-    int crow = row;
-    int ccol = col;
-
-    // UP 
-    int r = 1;
-
-    while (r < board.length) {
-
-        // UP
-        if (crow - r >= 0 &&
-            board[crow - r][ccol] == 1) {
-            return false;
+ private boolean isSafe(int row, int col) {
+        // Vertical up
+        for (int i = row - 1; i >= 0; i--) {
+            if (board[i][col] == 1) return false;
         }
 
-        r++;
-    }
-
-
-
-    
-    int d = 1;
-
-    while (d < board.length) {
-
-        // UP-LEFT ↖
-        if (crow - d >= 0 &&
-            ccol - d >= 0 &&
-            board[crow - d][ccol - d] == 1) {
-            return false;
+        // Diagonal up-left
+        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
+            if (board[i][j] == 1) return false;
         }
 
-        d++;
-    }
-
-
-    // ↗ + ↙
-    d = 1;
-
-    while (d < board.length) {
-
-        // UP-RIGHT ↗
-        if (crow - d >= 0 &&
-            ccol + d < board.length &&
-            board[crow - d][ccol + d] == 1) {
-            return false;
+        // Diagonal up-right
+        for (int i = row - 1, j = col + 1; i >= 0 && j < board.length; i--, j++) {
+            if (board[i][j] == 1) return false;
         }
-        d++;
-    }
 
-    return true;
-}
+        return true;
+    }
 }
