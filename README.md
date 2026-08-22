@@ -57,6 +57,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RudyMontoo/JAVA/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/RudyMontoo/JAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RudyMontoo/JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RudyMontoo/JAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/RudyMontoo/JAVA/tree/master/0051-n-queens) |
@@ -80,6 +81,7 @@ The goal of this repo is to:
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RudyMontoo/JAVA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -159,6 +161,7 @@ The goal of this repo is to:
 | ------- |
 | [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RudyMontoo/JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/RudyMontoo/JAVA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/RudyMontoo/JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RudyMontoo/JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RudyMontoo/JAVA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -247,6 +250,7 @@ The goal of this repo is to:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RudyMontoo/JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/RudyMontoo/JAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RudyMontoo/JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RudyMontoo/JAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/RudyMontoo/JAVA/tree/master/0051-n-queens) |
@@ -275,5 +279,10 @@ The goal of this repo is to:
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RudyMontoo/JAVA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RudyMontoo/JAVA/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/RudyMontoo/JAVA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
