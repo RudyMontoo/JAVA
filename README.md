@@ -111,6 +111,7 @@ The goal of this repo is to:
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RudyMontoo/JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -148,11 +149,13 @@ The goal of this repo is to:
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/RudyMontoo/JAVA/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RudyMontoo/JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
 ## Trie
 |  |
 | ------- |
@@ -289,4 +292,8 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RudyMontoo/JAVA/tree/master/0037-sudoku-solver) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
