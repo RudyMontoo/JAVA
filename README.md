@@ -144,6 +144,7 @@ The goal of this repo is to:
 | ------- |
 | [0002-add-two-numbers](https://github.com/RudyMontoo/JAVA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/RudyMontoo/JAVA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RudyMontoo/JAVA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RudyMontoo/JAVA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/RudyMontoo/JAVA/tree/master/0282-expression-add-operators) |
@@ -221,6 +222,7 @@ The goal of this repo is to:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RudyMontoo/JAVA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/RudyMontoo/JAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/RudyMontoo/JAVA/tree/master/0231-power-of-two) |
