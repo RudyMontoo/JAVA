@@ -67,6 +67,7 @@ The goal of this repo is to:
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/RudyMontoo/JAVA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/RudyMontoo/JAVA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/RudyMontoo/JAVA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -147,6 +148,7 @@ The goal of this repo is to:
 | [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RudyMontoo/JAVA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RudyMontoo/JAVA/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RudyMontoo/JAVA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/RudyMontoo/JAVA/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
@@ -304,4 +306,24 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
