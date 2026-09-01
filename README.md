@@ -148,6 +148,7 @@ The goal of this repo is to:
 | [0013-roman-to-integer](https://github.com/RudyMontoo/JAVA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RudyMontoo/JAVA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RudyMontoo/JAVA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/RudyMontoo/JAVA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RudyMontoo/JAVA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/RudyMontoo/JAVA/tree/master/0282-expression-add-operators) |
@@ -215,6 +216,7 @@ The goal of this repo is to:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RudyMontoo/JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/RudyMontoo/JAVA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/RudyMontoo/JAVA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/RudyMontoo/JAVA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
@@ -281,6 +283,7 @@ The goal of this repo is to:
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RudyMontoo/JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
