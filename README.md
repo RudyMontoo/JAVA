@@ -75,6 +75,7 @@ The goal of this repo is to:
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RudyMontoo/JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RudyMontoo/JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RudyMontoo/JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RudyMontoo/JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ The goal of this repo is to:
 | [1922-count-good-numbers](https://github.com/RudyMontoo/JAVA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RudyMontoo/JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RudyMontoo/JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
