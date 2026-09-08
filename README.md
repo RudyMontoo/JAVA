@@ -162,6 +162,7 @@ The goal of this repo is to:
 | [1922-count-good-numbers](https://github.com/RudyMontoo/JAVA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RudyMontoo/JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/RudyMontoo/JAVA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RudyMontoo/JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RudyMontoo/JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
