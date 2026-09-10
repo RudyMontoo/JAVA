@@ -314,6 +314,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Algorithm X
 |  |
 | ------- |
@@ -356,4 +357,12 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RudyMontoo/JAVA/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
