@@ -78,6 +78,7 @@ The goal of this repo is to:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RudyMontoo/JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RudyMontoo/JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RudyMontoo/JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RudyMontoo/JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RudyMontoo/JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RudyMontoo/JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -197,6 +198,7 @@ The goal of this repo is to:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RudyMontoo/JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RudyMontoo/JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RudyMontoo/JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -279,6 +281,7 @@ The goal of this repo is to:
 | [0234-palindrome-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/RudyMontoo/JAVA/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RudyMontoo/JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -334,6 +337,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RudyMontoo/JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
