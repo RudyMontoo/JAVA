@@ -74,6 +74,7 @@ The goal of this repo is to:
 | [0213-house-robber-ii](https://github.com/RudyMontoo/JAVA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/RudyMontoo/JAVA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -242,6 +243,7 @@ The goal of this repo is to:
 | [0131-palindrome-partitioning](https://github.com/RudyMontoo/JAVA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/RudyMontoo/JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RudyMontoo/JAVA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 ## Manacher
@@ -381,9 +383,18 @@ The goal of this repo is to:
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
