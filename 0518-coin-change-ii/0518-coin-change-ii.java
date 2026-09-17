@@ -3,11 +3,39 @@ class Solution {
         // METHOD 1 RECURSION (TLE -> 14/31)
         // METHOD 2 MEMOIZATION 
         int n=coins.length;
-        int[][] dp=new int[n+1][amount+1];
+        // int[][] dp=new int[n+1][amount+1];
+        // for(int[] row:dp){
+        //     Arrays.fill(row,-1);
+        // }
+        // return func(n-1, amount, coins, dp);
+
+
+        // METHOD 3 TABULATION
+        int[][] dp=new int[n][amount+1];
         for(int[] row:dp){
-            Arrays.fill(row,-1);
+            Arrays.fill(row,0);
         }
-        return func(n-1, amount, coins, dp);
+
+        for(int i=0;i<n;i++){
+            dp[i][0]=1;
+        }
+
+        for(int j = 1; j <= amount; j++) {
+        if(j % coins[0] == 0)
+            dp[0][j] = 1;
+    }
+
+        for(int i=1;i<n;i++){
+            for(int j=1;j<=amount;j++){
+                int take=0;
+                if(coins[i]<=j){
+                    take=dp[i][j-coins[i]];
+                }
+                int notTake=dp[i-1][j];
+                dp[i][j]=take+notTake;
+            }
+        }
+         return dp[n-1][amount];
     }
 
     private static int func(int idx, int trg, int[] coins, int[][] dp){
