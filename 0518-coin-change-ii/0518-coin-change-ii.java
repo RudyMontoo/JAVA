@@ -12,9 +12,6 @@ class Solution {
 
         // METHOD 3 TABULATION
         int[][] dp=new int[n][amount+1];
-        for(int[] row:dp){
-            Arrays.fill(row,0);
-        }
 
         for(int i=0;i<n;i++){
             dp[i][0]=1;
