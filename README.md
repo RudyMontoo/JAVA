@@ -128,6 +128,7 @@ The goal of this repo is to:
 | [0516-longest-palindromic-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/RudyMontoo/JAVA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RudyMontoo/JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
@@ -255,6 +256,7 @@ The goal of this repo is to:
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RudyMontoo/JAVA/tree/master/0518-coin-change-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RudyMontoo/JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Manacher
 |  |
 | ------- |
