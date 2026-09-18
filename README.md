@@ -253,6 +253,7 @@ The goal of this repo is to:
 | [0198-house-robber](https://github.com/RudyMontoo/JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RudyMontoo/JAVA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/RudyMontoo/JAVA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RudyMontoo/JAVA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
@@ -273,6 +274,7 @@ The goal of this repo is to:
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/RudyMontoo/JAVA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RudyMontoo/JAVA/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/RudyMontoo/JAVA/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RudyMontoo/JAVA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RudyMontoo/JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
