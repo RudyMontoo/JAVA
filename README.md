@@ -136,6 +136,7 @@ The goal of this repo is to:
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RudyMontoo/JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/RudyMontoo/JAVA/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/RudyMontoo/JAVA/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -335,6 +336,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RudyMontoo/JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/RudyMontoo/JAVA/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/RudyMontoo/JAVA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/RudyMontoo/JAVA/tree/master/3925-concatenate-array-with-reverse) |
 ## Merge Sort
