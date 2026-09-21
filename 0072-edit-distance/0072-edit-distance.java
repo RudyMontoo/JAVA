@@ -20,12 +20,12 @@ class Solution {
         }
         else{
             // delete
-            // func(i-1,j,s,t,dp);
+            int op1=1+func(i-1,j,s,t,dp);
             // insert
-            //func(i,j-1,s,t,dp);
+            int op2=1+func(i,j-1,s,t,dp);
             // replace
-            // func(i-1,j-1,s,t,dp);
-            dp[i][j]=1+Math.min(func(i-1,j,s,t,dp),Math.min(func(i,j-1,s,t,dp),func(i-1,j-1,s,t,dp)));
+            int op3=1+func(i-1,j-1,s,t,dp);
+            dp[i][j]=Math.min(op1,Math.min(op2,op3));
         }
             return dp[i][j];
         
