@@ -78,6 +78,7 @@ The goal of this repo is to:
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RudyMontoo/JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RudyMontoo/JAVA/tree/master/0518-coin-change-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RudyMontoo/JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -95,6 +96,7 @@ The goal of this repo is to:
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -209,6 +211,7 @@ The goal of this repo is to:
 | [0160-intersection-of-two-linked-lists](https://github.com/RudyMontoo/JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/RudyMontoo/JAVA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -241,6 +244,7 @@ The goal of this repo is to:
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RudyMontoo/JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
@@ -389,6 +393,7 @@ The goal of this repo is to:
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/RudyMontoo/JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RudyMontoo/JAVA/tree/master/3904-smallest-stable-index-ii) |
 ## Combinatorics
