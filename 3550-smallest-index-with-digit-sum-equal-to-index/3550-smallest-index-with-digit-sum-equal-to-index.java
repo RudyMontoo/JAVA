@@ -1,0 +1,21 @@
+import java.util.*;
+
+class Solution {
+    public int smallestIndex(int[] nums) {
+        int min = Integer.MAX_VALUE;
+        boolean found = false;
+
+        for (int i = 0; i < nums.length; i++) {
+            int sum = 0, num = nums[i];
+            while (num > 0) {
+                sum += num % 10;
+                num /= 10;
+            }
+            if (sum == i) {
+                min = Math.min(min, i);
+                found = true;
+            }
+        }
+        return found ? min : -1;
+    }
+}
