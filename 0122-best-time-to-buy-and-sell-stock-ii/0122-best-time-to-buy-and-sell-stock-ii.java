@@ -83,32 +83,48 @@
 
 
 // METHOD 3 TABULATIONS
-class Solution {
+// class Solution {
 
+//     public int maxProfit(int[] prices) {
+//         int n=prices.length;
+//         int[][] dp = new int[prices.length+1][2];
+//         dp[n][0]=0;
+//         dp[n][1]=0;
+
+//         for(int idx=n-1;idx>=0;idx--){
+//             int profit=0;
+//             for(int buy=0;buy<=1;buy++){
+//                         if (buy==1) {
+
+//             profit = Math.max(-prices[idx]
+//                     + dp[idx+1][0], dp[idx+1][1]);
+
+//         } else {
+
+//             profit = Math.max(prices[idx]
+//                     + dp[idx+1][1], dp[idx+1][0]);
+//         }
+//                  dp[idx][buy] = profit;    
+//             }
+             
+//         }
+
+//         return dp[0][1];
+//     }
+// }
+
+
+
+// METHOD 4 OPTIMIZATION 
+class Solution {
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int[][] dp = new int[prices.length+1][2];
-        dp[n][0]=0;
-        dp[n][1]=0;
-
-        for(int idx=n-1;idx>=0;idx--){
-            int profit=0;
-            for(int buy=0;buy<=1;buy++){
-                        if (buy==1) {
-
-            profit = Math.max(-prices[idx]
-                    + dp[idx+1][0], dp[idx+1][1]);
-
-        } else {
-
-            profit = Math.max(prices[idx]
-                    + dp[idx+1][1], dp[idx+1][0]);
-        }
-                 dp[idx][buy] = profit;    
-            }
-             
-        }
-
-        return dp[0][1];
+        int ahead0 = 0, ahead1 = 0;
+        for (int idx = n - 1; idx >= 0; idx--) {
+          int cur1 = Math.max(-prices[idx] + ahead0, ahead1);
+          int cur0 = Math.max( prices[idx] + ahead1, ahead0);
+          ahead0 = cur0; ahead1 = cur1;
+}
+return ahead1;   // O(1) space
     }
 }
