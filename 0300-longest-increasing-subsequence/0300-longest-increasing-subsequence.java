@@ -9,7 +9,7 @@ class Solution {
         return func(0,-1,nums,dp);
     }
     public int func(int idx ,int prev,  int[] nums, int[][] dp){
-        if(idx>=nums.length)return 0;
+        if(idx==nums.length)return 0;
         if(dp[idx][prev+1]!=-1)return dp[idx][prev+1];
         // take 
         int take=0;
