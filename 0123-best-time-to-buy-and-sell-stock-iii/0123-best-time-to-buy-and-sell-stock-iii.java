@@ -60,47 +60,89 @@
 // }
 
 
-// METHOD 2 TABULATIONS
-class Solution {
+// // METHOD 2 TABULATIONS
+// class Solution{
 
-    public int maxProfit(int[] prices){
+//     public int maxProfit(int[] prices){
 
-        int[][][] dp = new int[prices.length+1][2][3];
-        dp[prices.length][0][1]=0;
-        dp[prices.length][1][0]=0;
+//         int[][][] dp = new int[prices.length+1][2][3];
+//         dp[prices.length][0][1]=0;
+//         dp[prices.length][1][0]=0;
 
 
       
 
-        for(int idx=prices.length-1;idx>=0;idx--){
-            for(int buy=0;buy<=1;buy++){
-                for(int k=1;k<=2;k++){
-                    int profit;
-            if (buy==1) {
+//         for(int idx=prices.length-1;idx>=0;idx--){
+//             for(int buy=0;buy<=1;buy++){
+//                 for(int k=1;k<=2;k++){
+//                     int profit;
+//             if (buy==1) {
 
-            int take = -prices[idx]
-                    + dp[idx + 1][0][k];
+//             int take = -prices[idx]
+//                     + dp[idx + 1][0][k];
 
-            int nottake = dp[idx + 1][1][k];
+//             int nottake = dp[idx + 1][1][k];
 
-            profit = Math.max(take, nottake);
+//             profit = Math.max(take, nottake);
 
-        } else {
+//         } else {
 
-            int sell = prices[idx]
-                    + dp[idx + 1][1][k-1];
+//             int sell = prices[idx]
+//                     + dp[idx + 1][1][k-1];
 
-            int notsell = dp[idx + 1][0][k];
+//             int notsell = dp[idx + 1][0][k];
 
-            profit = Math.max(sell, notsell);
-        }
+//             profit = Math.max(sell, notsell);
+//         }
 
        
-        dp[idx][buy][k] = profit;
+//         dp[idx][buy][k] = profit;
+//                 }
+//             }
+//         }
+
+//         return dp[0][1][2];
+//     }
+// }
+
+
+// METHOD 3 -> Space Optimization
+class Solution {
+
+    public int maxProfit(int[] prices){
+
+        int[][]after = new int[2][3];
+        int[][]curr = new int[2][3];
+        for(int idx=prices.length-1;idx>=0;idx--){
+            for(int buy=0;buy<=1;buy++){
+                for(int cap=1;cap<=2;cap++){
+                    int profit;
+                    if (buy==1) {
+
+                    int take = -prices[idx]
+                            + after[0][cap];
+
+                    int nottake = after[1][cap];
+
+                    profit = Math.max(take, nottake);
+
+                } else {
+
+                    int sell = prices[idx]
+                            + after[1][cap-1];
+
+                    int notsell = after[0][cap];
+
+                    profit = Math.max(sell, notsell);
+        }
+                curr[buy][cap]=profit;
+      
                 }
             }
+            int[][] temp = after;
+            after = curr;
+            curr = temp;
         }
-
-        return dp[0][1][2];
+         return after[1][2];
     }
 }
