@@ -155,6 +155,7 @@ The goal of this repo is to:
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/RudyMontoo/JAVA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/RudyMontoo/JAVA/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/RudyMontoo/JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RudyMontoo/JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -170,6 +171,7 @@ The goal of this repo is to:
 | [0020-valid-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1106-parsing-a-boolean-expression](https://github.com/RudyMontoo/JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -358,6 +360,7 @@ The goal of this repo is to:
 | [0231-power-of-two](https://github.com/RudyMontoo/JAVA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
+| [1106-parsing-a-boolean-expression](https://github.com/RudyMontoo/JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/RudyMontoo/JAVA/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RudyMontoo/JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
