@@ -408,6 +408,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/RudyMontoo/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Algorithm X
@@ -457,12 +458,14 @@ The goal of this repo is to:
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RudyMontoo/JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RudyMontoo/JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -486,6 +489,7 @@ The goal of this repo is to:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RudyMontoo/JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
