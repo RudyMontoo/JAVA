@@ -17,7 +17,7 @@
 //  
 class Solution {
     public int maxPathSum(TreeNode root) {
-        if(root==null)return Integer.MIN_VALUE;;
+        if(root==null)return 0;
         int left=Integer.MIN_VALUE;
         int right=Integer.MIN_VALUE;
         if(root.left!=null){
