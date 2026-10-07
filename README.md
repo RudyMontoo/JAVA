@@ -300,6 +300,7 @@ The goal of this repo is to:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudyMontoo/JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudyMontoo/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RudyMontoo/JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RudyMontoo/JAVA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RudyMontoo/JAVA/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RudyMontoo/JAVA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -410,6 +411,7 @@ The goal of this repo is to:
 | [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/RudyMontoo/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Algorithm X
 |  |
@@ -461,6 +463,7 @@ The goal of this repo is to:
 | [0100-same-tree](https://github.com/RudyMontoo/JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -468,6 +471,7 @@ The goal of this repo is to:
 | [0100-same-tree](https://github.com/RudyMontoo/JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -516,4 +520,8 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
