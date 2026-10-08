@@ -414,6 +414,7 @@ The goal of this repo is to:
 | [0100-same-tree](https://github.com/RudyMontoo/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Algorithm X
@@ -467,6 +468,7 @@ The goal of this repo is to:
 | [0102-binary-tree-level-order-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -476,6 +478,7 @@ The goal of this repo is to:
 | [0102-binary-tree-level-order-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -501,6 +504,7 @@ The goal of this repo is to:
 | [0100-same-tree](https://github.com/RudyMontoo/JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Complete Knapsack
