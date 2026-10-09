@@ -158,6 +158,7 @@ The goal of this repo is to:
 | [1092-shortest-common-supersequence](https://github.com/RudyMontoo/JAVA/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/RudyMontoo/JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RudyMontoo/JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RudyMontoo/JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -174,6 +175,7 @@ The goal of this repo is to:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/RudyMontoo/JAVA/tree/master/1106-parsing-a-boolean-expression) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -182,6 +184,7 @@ The goal of this repo is to:
 | [0022-generate-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -226,6 +229,7 @@ The goal of this repo is to:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudyMontoo/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
 ## Trie
