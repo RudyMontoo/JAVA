@@ -112,6 +112,7 @@ The goal of this repo is to:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RudyMontoo/JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/RudyMontoo/JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -343,6 +344,7 @@ The goal of this repo is to:
 | [0078-subsets](https://github.com/RudyMontoo/JAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RudyMontoo/JAVA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/RudyMontoo/JAVA/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/RudyMontoo/JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/RudyMontoo/JAVA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/RudyMontoo/JAVA/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RudyMontoo/JAVA/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -477,6 +479,7 @@ The goal of this repo is to:
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/RudyMontoo/JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -490,6 +493,7 @@ The goal of this repo is to:
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/RudyMontoo/JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
