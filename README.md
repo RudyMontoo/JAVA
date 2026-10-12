@@ -154,6 +154,7 @@ The goal of this repo is to:
 | [0151-reverse-words-in-a-string](https://github.com/RudyMontoo/JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RudyMontoo/JAVA/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/RudyMontoo/JAVA/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RudyMontoo/JAVA/tree/master/0583-delete-operation-for-two-strings) |
@@ -433,6 +434,7 @@ The goal of this repo is to:
 | [0124-binary-tree-maximum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -495,6 +497,7 @@ The goal of this repo is to:
 | [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RudyMontoo/JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -512,6 +515,7 @@ The goal of this repo is to:
 | [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RudyMontoo/JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -540,6 +544,7 @@ The goal of this repo is to:
 | [0102-binary-tree-level-order-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RudyMontoo/JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -579,4 +584,8 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
