@@ -86,6 +86,7 @@ The goal of this repo is to:
 | [0312-burst-balloons](https://github.com/RudyMontoo/JAVA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/RudyMontoo/JAVA/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RudyMontoo/JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RudyMontoo/JAVA/tree/master/0518-coin-change-ii) |
@@ -119,6 +120,7 @@ The goal of this repo is to:
 | [0222-count-complete-tree-nodes](https://github.com/RudyMontoo/JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
@@ -239,6 +241,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudyMontoo/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -336,6 +339,7 @@ The goal of this repo is to:
 | [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/RudyMontoo/JAVA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/RudyMontoo/JAVA/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RudyMontoo/JAVA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
@@ -487,6 +491,7 @@ The goal of this repo is to:
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/RudyMontoo/JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RudyMontoo/JAVA/tree/master/3904-smallest-stable-index-ii) |
