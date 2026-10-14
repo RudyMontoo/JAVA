@@ -231,6 +231,7 @@ The goal of this repo is to:
 | [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RudyMontoo/JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RudyMontoo/JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/RudyMontoo/JAVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/RudyMontoo/JAVA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RudyMontoo/JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RudyMontoo/JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -243,6 +244,7 @@ The goal of this repo is to:
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/RudyMontoo/JAVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RudyMontoo/JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
