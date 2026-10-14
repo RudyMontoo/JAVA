@@ -92,6 +92,7 @@ The goal of this repo is to:
 | [0518-coin-change-ii](https://github.com/RudyMontoo/JAVA/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/RudyMontoo/JAVA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/RudyMontoo/JAVA/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RudyMontoo/JAVA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -186,6 +187,7 @@ The goal of this repo is to:
 | [0144-binary-tree-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/RudyMontoo/JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -525,6 +527,7 @@ The goal of this repo is to:
 | [0700-search-in-a-binary-search-tree](https://github.com/RudyMontoo/JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -550,6 +553,7 @@ The goal of this repo is to:
 | [0700-search-in-a-binary-search-tree](https://github.com/RudyMontoo/JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -629,4 +633,9 @@ The goal of this repo is to:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RudyMontoo/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/RudyMontoo/JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RudyMontoo/JAVA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
