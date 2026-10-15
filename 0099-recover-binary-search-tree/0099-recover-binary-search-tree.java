@@ -42,29 +42,29 @@
 
 // method 2 optimize solution
 class Solution{
-    List<TreeNode> list=new ArrayList<>();
-    TreeNode first=null,mid=null, last=null;
+    TreeNode first=null,mid=null, last=null, prev=null;
 
     public void recoverTree(TreeNode root){
         if(root==null)return;
         inorder(root);
-        for(int i=1;i<list.size();i++){
-            if(list.get(i-1).val>list.get(i).val){
-                if(first==null){
-                    first=list.get(i-1);
-                    mid=list.get(i);
-                }
-                else last=list.get(i);
-            }
-        }
         if(last==null)swap(first,mid);
         else swap(first,last);
     }
-    public void  inorder(TreeNode root){
-        if(root==null)return;
-        inorder(root.left);
-        list.add(root);
-        inorder(root.right);
+    private void inorder(TreeNode node) {
+        if (node == null) return;
+        inorder(node.left);
+
+        if (prev != null && prev.val > node.val) {
+            if (first == null) {
+                first = prev;
+                mid = node;
+            } else {
+                last = node;
+            }
+        }
+        prev = node;   // har node ke baad update
+
+        inorder(node.right);
     }
     public void swap(TreeNode a, TreeNode b){
         int temp=a.val;
