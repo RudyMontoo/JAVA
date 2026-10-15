@@ -22,16 +22,18 @@ class Solution {
     }
 
     public boolean possible(int mid, int[] arr, int k){
-        int x=0;
+        int x=1;
         int sum=0;
         for(int i=0;i<arr.length;i++){
-            if(arr[i]+sum>mid){
+            if(arr[i]+sum<=mid){
+                sum+=arr[i];
+            }
+            else{
                 x++;
                 sum=arr[i];
             }
-            else sum+=arr[i];
         }
-        if(x+1<=k)return true;
+        if(x<=k)return true;
         else return false;
     }
 }
