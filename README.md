@@ -99,6 +99,7 @@ The goal of this repo is to:
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RudyMontoo/JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RudyMontoo/JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RudyMontoo/JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RudyMontoo/JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -275,6 +276,7 @@ The goal of this repo is to:
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RudyMontoo/JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RudyMontoo/JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RudyMontoo/JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RudyMontoo/JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -603,10 +605,12 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RudyMontoo/JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RudyMontoo/JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## DP on Trees
 |  |
 | ------- |
