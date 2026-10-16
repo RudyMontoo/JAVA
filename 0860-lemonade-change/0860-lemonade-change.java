@@ -1,47 +1,36 @@
 class Solution {
-    Queue<Integer> queue=new LinkedList<>();
+    int five = 0, ten = 0;
+
     public boolean lemonadeChange(int[] bills) {
-        int n=bills.length;
-        if(bills[0]!=5)return false;
-        queue.add(5);
-        for(int i=1;i<n;i++){
-            if(!check(bills[i])){
-                return false;
-            }
+        for (int bill : bills) {
+            if (!check(bill)) return false;
         }
-        
         return true;
     }
 
-    public boolean check(int cm){
-        // if(cm!=5 && queue.isEmpty())return false;
-        if(cm==5){
-            queue.add(5);
+    public boolean check(int cm) {
+        if (cm == 5) {
+            five++;
             return true;
-            }
-        if(cm==10){
-            if(queue.contains(5)){
-                queue.add(10);
-                queue.remove(5);
-                return true;
-            }
         }
-        if(cm==20){
-            if(queue.contains(10)&&queue.contains(5)){
-                queue.add(20);
-                queue.remove(10);
-                queue.remove(5);
+        if (cm == 10) {
+            if (five > 0) {
+                five--;
+                ten++;
                 return true;
             }
-            if(Collections.frequency(queue, 5)>=3){
-                queue.remove(5);
-                queue.remove(5);
-                queue.remove(5);
-                queue.add(20);
-                return true;
-            }
+            return false;
         }
-        
+        // cm == 20
+        if (ten > 0 && five > 0) {      // greedy: pehle 10+5
+            ten--;
+            five--;
+            return true;
+        }
+        if (five >= 3) {                // warna 5+5+5
+            five -= 3;
+            return true;
+        }
         return false;
     }
 }
