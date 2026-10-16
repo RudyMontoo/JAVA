@@ -62,6 +62,7 @@ The goal of this repo is to:
 | [0039-combination-sum](https://github.com/RudyMontoo/JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RudyMontoo/JAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/RudyMontoo/JAVA/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/RudyMontoo/JAVA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/RudyMontoo/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -248,6 +249,7 @@ The goal of this repo is to:
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RudyMontoo/JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudyMontoo/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/RudyMontoo/JAVA/tree/master/0455-assign-cookies) |
@@ -330,6 +332,7 @@ The goal of this repo is to:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RudyMontoo/JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/RudyMontoo/JAVA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RudyMontoo/JAVA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RudyMontoo/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0064-minimum-path-sum) |
