@@ -109,6 +109,7 @@ The goal of this repo is to:
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RudyMontoo/JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RudyMontoo/JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RudyMontoo/JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RudyMontoo/JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RudyMontoo/JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RudyMontoo/JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/RudyMontoo/JAVA/tree/master/3838-weighted-word-mapping) |
@@ -292,6 +293,7 @@ The goal of this repo is to:
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RudyMontoo/JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RudyMontoo/JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RudyMontoo/JAVA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RudyMontoo/JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -307,6 +309,7 @@ The goal of this repo is to:
 | [1048-longest-string-chain](https://github.com/RudyMontoo/JAVA/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RudyMontoo/JAVA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RudyMontoo/JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RudyMontoo/JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
