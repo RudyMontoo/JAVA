@@ -89,6 +89,7 @@ The goal of this repo is to:
 | [0368-largest-divisible-subset](https://github.com/RudyMontoo/JAVA/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RudyMontoo/JAVA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/RudyMontoo/JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RudyMontoo/JAVA/tree/master/0518-coin-change-ii) |
@@ -253,6 +254,7 @@ The goal of this repo is to:
 | [0055-jump-game](https://github.com/RudyMontoo/JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RudyMontoo/JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RudyMontoo/JAVA/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/RudyMontoo/JAVA/tree/master/0860-lemonade-change) |
@@ -303,6 +305,7 @@ The goal of this repo is to:
 | ------- |
 | [0148-sort-list](https://github.com/RudyMontoo/JAVA/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/RudyMontoo/JAVA/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RudyMontoo/JAVA/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -360,6 +363,7 @@ The goal of this repo is to:
 | [0368-largest-divisible-subset](https://github.com/RudyMontoo/JAVA/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RudyMontoo/JAVA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/RudyMontoo/JAVA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0516-longest-palindromic-subsequence) |
