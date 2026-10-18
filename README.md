@@ -63,6 +63,7 @@ The goal of this repo is to:
 | [0040-combination-sum-ii](https://github.com/RudyMontoo/JAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/RudyMontoo/JAVA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/RudyMontoo/JAVA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RudyMontoo/JAVA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/RudyMontoo/JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RudyMontoo/JAVA/tree/master/0064-minimum-path-sum) |
@@ -304,6 +305,7 @@ The goal of this repo is to:
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/RudyMontoo/JAVA/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/RudyMontoo/JAVA/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0435-non-overlapping-intervals) |
@@ -682,5 +684,6 @@ The goal of this repo is to:
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/RudyMontoo/JAVA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
