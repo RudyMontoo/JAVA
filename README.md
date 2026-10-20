@@ -118,6 +118,7 @@ The goal of this repo is to:
 | [3838-weighted-word-mapping](https://github.com/RudyMontoo/JAVA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RudyMontoo/JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RudyMontoo/JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/RudyMontoo/JAVA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/RudyMontoo/JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RudyMontoo/JAVA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/RudyMontoo/JAVA/tree/master/3925-concatenate-array-with-reverse) |
@@ -250,6 +251,7 @@ The goal of this repo is to:
 | [3870-count-commas-in-range](https://github.com/RudyMontoo/JAVA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RudyMontoo/JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RudyMontoo/JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/RudyMontoo/JAVA/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -317,6 +319,7 @@ The goal of this repo is to:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RudyMontoo/JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RudyMontoo/JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/RudyMontoo/JAVA/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -502,6 +505,7 @@ The goal of this repo is to:
 | [0204-count-primes](https://github.com/RudyMontoo/JAVA/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RudyMontoo/JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RudyMontoo/JAVA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/RudyMontoo/JAVA/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
