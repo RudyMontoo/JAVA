@@ -402,6 +402,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RudyMontoo/JAVA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/RudyMontoo/JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RudyMontoo/JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/RudyMontoo/JAVA/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -420,6 +421,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RudyMontoo/JAVA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/RudyMontoo/JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RudyMontoo/JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/RudyMontoo/JAVA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0206-reverse-linked-list) |
