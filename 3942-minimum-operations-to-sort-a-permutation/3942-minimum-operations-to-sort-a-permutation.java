@@ -1,44 +1,60 @@
 import java.util.*;
 
 class Solution {
-    boolean isSort(List<Integer> v) {
-        int n = v.size();
-        for (int i = 0; i < n; i++) {
-            if (v.get(i) != i) {          // v2[i] was just i
-                return false;
-            }
+
+    // Returns true if arr is exactly [0, 1, 2, ..., n-1]
+    private boolean isSortedFromZero(int[] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] != i) return false;
         }
         return true;
     }
 
     public int minOperations(int[] nums) {
         int n = nums.length;
-        List<Integer> v = new ArrayList<>();
-        List<Integer> v2 = new ArrayList<>();
 
-        int kt = -1;
+        // STEP 1: find where 0 is (our anchor)
+        // nums = [2,3,4,0,1]  ->  zeroIndex = 3
+        int zeroIndex = 0;
         for (int i = 0; i < n; i++) {
             if (nums[i] == 0) {
-                kt = i;
+                zeroIndex = i;
                 break;
             }
         }
 
-        for (int i = kt; i < n; i++) v.add(nums[i]);
-        for (int i = 0; i < kt; i++) v.add(nums[i]);
+        // STEP 2: read the circle FORWARD, starting from 0
+        // nums = [2,3,4,0,1]  ->  forward = [0,1,2,3,4]
+        int[] forward = new int[n];
+        int pos = 0;
+        for (int i = zeroIndex; i < n; i++) forward[pos++] = nums[i];   // 0 to end
+        for (int i = 0; i < zeroIndex; i++) forward[pos++] = nums[i];   // start to before 0
 
-        for (int i = kt; i >= 0; i--) v2.add(nums[i]);
-        for (int i = n - 1; i > kt; i--) v2.add(nums[i]);
+        // STEP 3: read the circle BACKWARD, starting from 0
+        // nums = [2,1,0,4,3]  ->  backward = [0,1,2,3,4]
+        int[] backward = new int[n];
+        pos = 0;
+        for (int i = zeroIndex; i >= 0; i--) backward[pos++] = nums[i];   // 0 to start
+        for (int i = n - 1; i > zeroIndex; i--) backward[pos++] = nums[i]; // end to after 0
 
-        int knt = Math.min(n - kt, kt + 2);
-        int snt = Math.min(kt, n + 2 - kt);
+        // STEP 4: cost of each case
+        // Case A: nums is a rotation of sorted array (forward is sorted)
+        //   option 1: rotate left zeroIndex times             -> zeroIndex
+        //   option 2: reverse + (n - zeroIndex) rotates + reverse -> n - zeroIndex + 2
+        int costIfRotation = Math.min(zeroIndex, n - zeroIndex + 2);
 
-        boolean a = isSort(v);
-        boolean b = isSort(v2);
+        // Case B: nums is a reversed rotation (backward is sorted)
+        //   option 1: reverse + (n - zeroIndex - 1) rotates   -> n - zeroIndex
+        //   option 2: (zeroIndex + 1) rotates + reverse       -> zeroIndex + 2
+        int costIfReversedRotation = Math.min(n - zeroIndex, zeroIndex + 2);
 
-        if (a && b) return Math.min(snt, knt);
-        if (a) return snt;
-        if (b) return knt;
-        return -1;
+        // STEP 5: decide the answer
+        boolean isRotation = isSortedFromZero(forward);
+        boolean isReversedRotation = isSortedFromZero(backward);
+
+        if (isRotation && isReversedRotation) return Math.min(costIfRotation, costIfReversedRotation);
+        if (isRotation) return costIfRotation;
+        if (isReversedRotation) return costIfReversedRotation;
+        return -1;   // neither case -> impossible
     }
 }
