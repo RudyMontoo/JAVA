@@ -126,6 +126,7 @@ The goal of this repo is to:
 | [3903-smallest-stable-index-i](https://github.com/RudyMontoo/JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RudyMontoo/JAVA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/RudyMontoo/JAVA/tree/master/3925-concatenate-array-with-reverse) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/RudyMontoo/JAVA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
