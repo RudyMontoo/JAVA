@@ -100,6 +100,7 @@ The goal of this repo is to:
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/RudyMontoo/JAVA/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/RudyMontoo/JAVA/tree/master/1043-partition-array-for-maximum-sum) |
@@ -146,6 +147,7 @@ The goal of this repo is to:
 | [0200-number-of-islands](https://github.com/RudyMontoo/JAVA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
 ## Divide and Conquer
 |  |
@@ -638,6 +640,7 @@ The goal of this repo is to:
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
 ## Complete Knapsack
 |  |
