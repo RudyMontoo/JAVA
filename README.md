@@ -96,6 +96,7 @@ The goal of this repo is to:
 | [0455-assign-cookies](https://github.com/RudyMontoo/JAVA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/RudyMontoo/JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RudyMontoo/JAVA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
@@ -147,6 +148,7 @@ The goal of this repo is to:
 | [0079-word-search](https://github.com/RudyMontoo/JAVA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RudyMontoo/JAVA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
@@ -383,6 +385,7 @@ The goal of this repo is to:
 | [0509-fibonacci-number](https://github.com/RudyMontoo/JAVA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RudyMontoo/JAVA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RudyMontoo/JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -635,6 +638,7 @@ The goal of this repo is to:
 | [0200-number-of-islands](https://github.com/RudyMontoo/JAVA/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RudyMontoo/JAVA/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RudyMontoo/JAVA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RudyMontoo/JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0662-maximum-width-of-binary-tree) |
