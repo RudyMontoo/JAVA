@@ -108,6 +108,7 @@ The goal of this repo is to:
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/RudyMontoo/JAVA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/RudyMontoo/JAVA/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/RudyMontoo/JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RudyMontoo/JAVA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RudyMontoo/JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -156,6 +157,7 @@ The goal of this repo is to:
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/RudyMontoo/JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -666,6 +668,7 @@ The goal of this repo is to:
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/RudyMontoo/JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Complete Knapsack
 |  |
 | ------- |
