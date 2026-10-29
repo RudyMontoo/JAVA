@@ -110,6 +110,7 @@ The goal of this repo is to:
 | [1048-longest-string-chain](https://github.com/RudyMontoo/JAVA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RudyMontoo/JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RudyMontoo/JAVA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RudyMontoo/JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RudyMontoo/JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -141,6 +142,7 @@ The goal of this repo is to:
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
+| [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
@@ -158,6 +160,7 @@ The goal of this repo is to:
 | [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RudyMontoo/JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -343,6 +346,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -520,6 +524,7 @@ The goal of this repo is to:
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RudyMontoo/JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Algorithm X
 |  |
@@ -669,6 +674,7 @@ The goal of this repo is to:
 | [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RudyMontoo/JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -746,6 +752,7 @@ The goal of this repo is to:
 | [0547-number-of-provinces](https://github.com/RudyMontoo/JAVA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/RudyMontoo/JAVA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -784,4 +791,8 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RudyMontoo/JAVA/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
