@@ -102,6 +102,7 @@ The goal of this repo is to:
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/RudyMontoo/JAVA/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -142,6 +143,7 @@ The goal of this repo is to:
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
+| [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
@@ -157,6 +159,7 @@ The goal of this repo is to:
 | [0240-search-a-2d-matrix-ii](https://github.com/RudyMontoo/JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/RudyMontoo/JAVA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RudyMontoo/JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -347,6 +350,7 @@ The goal of this repo is to:
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/RudyMontoo/JAVA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RudyMontoo/JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -525,6 +529,7 @@ The goal of this repo is to:
 | [0662-maximum-width-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RudyMontoo/JAVA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RudyMontoo/JAVA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RudyMontoo/JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RudyMontoo/JAVA/tree/master/0802-find-eventual-safe-states) |
@@ -675,6 +680,7 @@ The goal of this repo is to:
 | [0662-maximum-width-of-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/RudyMontoo/JAVA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RudyMontoo/JAVA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RudyMontoo/JAVA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RudyMontoo/JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RudyMontoo/JAVA/tree/master/0802-find-eventual-safe-states) |
@@ -759,6 +765,7 @@ The goal of this repo is to:
 | [0130-surrounded-regions](https://github.com/RudyMontoo/JAVA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RudyMontoo/JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RudyMontoo/JAVA/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RudyMontoo/JAVA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
@@ -809,6 +816,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RudyMontoo/JAVA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RudyMontoo/JAVA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RudyMontoo/JAVA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -827,4 +835,8 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RudyMontoo/JAVA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
