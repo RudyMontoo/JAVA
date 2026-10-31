@@ -130,6 +130,7 @@ The goal of this repo is to:
 | [3875-construct-uniform-parity-array-i](https://github.com/RudyMontoo/JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RudyMontoo/JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/RudyMontoo/JAVA/tree/master/3886-sum-of-sortable-integers) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/RudyMontoo/JAVA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/RudyMontoo/JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RudyMontoo/JAVA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/RudyMontoo/JAVA/tree/master/3925-concatenate-array-with-reverse) |
@@ -164,6 +165,7 @@ The goal of this repo is to:
 | [1020-number-of-enclaves](https://github.com/RudyMontoo/JAVA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RudyMontoo/JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/RudyMontoo/JAVA/tree/master/1631-path-with-minimum-effort) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/RudyMontoo/JAVA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -781,6 +783,7 @@ The goal of this repo is to:
 | [0802-find-eventual-safe-states](https://github.com/RudyMontoo/JAVA/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RudyMontoo/JAVA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RudyMontoo/JAVA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/RudyMontoo/JAVA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Coloring
 |  |
 | ------- |
