@@ -206,6 +206,7 @@ The goal of this repo is to:
 | [1092-shortest-common-supersequence](https://github.com/RudyMontoo/JAVA/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/RudyMontoo/JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RudyMontoo/JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -291,6 +292,7 @@ The goal of this repo is to:
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/RudyMontoo/JAVA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/RudyMontoo/JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/RudyMontoo/JAVA/tree/master/1927-sum-game) |
@@ -320,6 +322,7 @@ The goal of this repo is to:
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RudyMontoo/JAVA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/RudyMontoo/JAVA/tree/master/1048-longest-string-chain) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RudyMontoo/JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RudyMontoo/JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -345,6 +348,7 @@ The goal of this repo is to:
 | [0455-assign-cookies](https://github.com/RudyMontoo/JAVA/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/RudyMontoo/JAVA/tree/master/1048-longest-string-chain) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RudyMontoo/JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RudyMontoo/JAVA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RudyMontoo/JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RudyMontoo/JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
