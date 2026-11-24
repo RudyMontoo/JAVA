@@ -225,6 +225,7 @@ The goal of this repo is to:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RudyMontoo/JAVA/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/RudyMontoo/JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -750,6 +751,7 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RudyMontoo/JAVA/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/RudyMontoo/JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -863,4 +865,8 @@ The goal of this repo is to:
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/RudyMontoo/JAVA/tree/master/0778-swim-in-rising-water) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RudyMontoo/JAVA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
