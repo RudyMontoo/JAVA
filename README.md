@@ -200,6 +200,7 @@ The goal of this repo is to:
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RudyMontoo/JAVA/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/RudyMontoo/JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/RudyMontoo/JAVA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
@@ -227,6 +228,7 @@ The goal of this repo is to:
 | [0173-binary-search-tree-iterator](https://github.com/RudyMontoo/JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RudyMontoo/JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/RudyMontoo/JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
@@ -238,6 +240,7 @@ The goal of this repo is to:
 | ------- |
 | [0020-valid-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RudyMontoo/JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RudyMontoo/JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RudyMontoo/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -291,6 +294,7 @@ The goal of this repo is to:
 | [0410-split-array-largest-sum](https://github.com/RudyMontoo/JAVA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RudyMontoo/JAVA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/RudyMontoo/JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/RudyMontoo/JAVA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -419,6 +423,7 @@ The goal of this repo is to:
 | [0542-01-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RudyMontoo/JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/RudyMontoo/JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RudyMontoo/JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RudyMontoo/JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1043-partition-array-for-maximum-sum](https://github.com/RudyMontoo/JAVA/tree/master/1043-partition-array-for-maximum-sum) |
