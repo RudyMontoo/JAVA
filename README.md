@@ -98,6 +98,7 @@ The goal of this repo is to:
 | [0435-non-overlapping-intervals](https://github.com/RudyMontoo/JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RudyMontoo/JAVA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/RudyMontoo/JAVA/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/RudyMontoo/JAVA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/RudyMontoo/JAVA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RudyMontoo/JAVA/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RudyMontoo/JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -230,6 +231,7 @@ The goal of this repo is to:
 | [0173-binary-search-tree-iterator](https://github.com/RudyMontoo/JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RudyMontoo/JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RudyMontoo/JAVA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/RudyMontoo/JAVA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/RudyMontoo/JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RudyMontoo/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -327,6 +329,7 @@ The goal of this repo is to:
 | [0160-intersection-of-two-linked-lists](https://github.com/RudyMontoo/JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/RudyMontoo/JAVA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/RudyMontoo/JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/RudyMontoo/JAVA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RudyMontoo/JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RudyMontoo/JAVA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RudyMontoo/JAVA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -776,6 +779,7 @@ The goal of this repo is to:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/RudyMontoo/JAVA/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RudyMontoo/JAVA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
